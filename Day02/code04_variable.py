@@ -9,3 +9,8 @@ print(val)
 
 val = 10 // 2
 print(val)
+print(id(val))      # 주소 출력. 매번 주소 바뀜. 다른 메모리에 저장되기 때문에
+
+# 변수명 단어들의 조합
+plant_major_upper_code = 'u13TEMP'
+print(id(plant_major_upper_code))
