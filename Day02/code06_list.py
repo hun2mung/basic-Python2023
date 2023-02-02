@@ -49,6 +49,7 @@ arr5.append(4)     # 값 추가
 print(arr5)
 
 # tuple1.append(4)  #튜플에는 값 추가 불가
+
 print(tuple1)
 print(type(tuple1))
 

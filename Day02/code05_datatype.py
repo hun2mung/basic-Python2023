@@ -29,7 +29,7 @@ val = 3_099.99
 print(val)
 
 # 문자열
-val = 'Life is hort, You need Python'
+val = 'Life is short, You need Python'
 print(val)
 print(type(val))
 
