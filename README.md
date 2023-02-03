@@ -56,4 +56,37 @@ print(f'파이는 {pi:10.3f}입니다.')  # 파이는      3.142입니다.
         - 매직 메서드 : __init__(생성자) 등등
     - 패키지, 모듈
     
-
+## 5일차
+1. 파이썬 기본
+    - 패키지 계속
+        - 인터넷 : 네트워크를 통한 request 와 response
+    - 입출력 다시
+        - file = open('smaple.txt', 'w')  # 파일 쓰기로 만듦
+        - r : 읽기, w : 쓰기, a : 추가쓰기
+        - 절대 경로 : root부터 모든 경로 적는 것
+        - 상대 경로 : 현재위치 기준으로 적는 것
+        - open() 과 close()는 항상 함께
+    - 예외처리
+        - 오류 : 코딩 중 문법적 문제
+        - 예외 : 실행되고 나서 생기는 문제
+```python
+#매직코드
+# C int main(void){} 동일
+if __name__ == '__main__':
+    print('main을 실행합니다!')
+```
+```python
+# 완전 다중입력(개수가 몇개든지 상관없음)
+inputs = list(map(str, input('단어를 입력하세요 > ').split()))
+```
+```python
+#utf-8
+file = open('smaple.txt', 'a', encoding='utf-8')
+```
+```python
+# 예외 발생 시 예외처리 필수.
+try:    
+    pass
+except Exception as e:
+    print(e)
+```
