@@ -146,7 +146,7 @@ def run():
                 clear_console()    
             clear_console()
         elif sel_menu == 2:     # 9. 연락처 출력
-            clear_console()
+            # clear_console()
             get_contacts(contacts)
             input('주소록 출력 성공')         
             clear_console()
