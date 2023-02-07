@@ -103,3 +103,13 @@ except Exception as e:
 
 ![실행화면](https://raw.githubusercontent.com/hun2mung/studyPython2023/main/Images/my_address_app.png)
 실행화면
+
+# 7일차
+1. 파이썬 응용
+    - 주피터 노트북 사용법
+        - MD와 파이썬 함께 사용 가능하다는 것이 큰 장점.
+    - 리스트 연산 추가
+    - 자료구조 추가
+    - 라이브러리 사용법
+    - 윈폼 개발(GUI)
+    - 응용 학습
