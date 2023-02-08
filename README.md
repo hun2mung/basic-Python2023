@@ -119,7 +119,13 @@ except Exception as e:
         - 기상청 오늘의 날씨 크롤링
         - 데이터포털 OpenAPI 크롤링(버스 정류장 찾기)
         - BeautifulSoup 크롤링
+![실행화면](https://raw.githubusercontent.com/hun2mung/studyPython2023/main/Images/jupyter_folium.png)
+
+            Folium OpenAPI 연동화면
+
+# 9일차
+1. 파이썬 응용
+    - GUI 개발(PyQt)
     - 자료구조 추가
-    - 윈폼 개발(GUI)
-    - 응용 학습
+    
     
