@@ -125,7 +125,15 @@ except Exception as e:
 
 # 9일차
 1. 파이썬 응용
-    - GUI 개발(PyQt)
-    - 자료구조 추가
+    - GUI 개발
+        - Tkinter 소개
+        - PyQt 소개, 설치
+```
+wikidocs : https://wikidocs.net/
+wikibooks : https://wikibook.co.kr/
+```
+        
+2. 
+    
     
     
