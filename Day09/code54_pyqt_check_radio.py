@@ -1,4 +1,4 @@
-# 푸시 버튼
+# 체크 라디오
 
 import sys
 from PyQt5.QtWidgets import *

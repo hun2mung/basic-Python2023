@@ -128,12 +128,21 @@ except Exception as e:
     - GUI 개발
         - Tkinter 소개
         - PyQt 소개, 설치
+        - 위젯
 ```
 wikidocs : https://wikidocs.net/
 wikibooks : https://wikibook.co.kr/
 ```
         
-2. 
-    
-    
-    
+# 10일차
+1. 파이썬 응용
+- GUI 개발
+    - PyQt 위젯 계속
+    - PyQt 다이얼로그
+
+![실행화면]()
+실행화면
+
+ ```
+클래스 함수 내 self 역할 : cbOption과 self.cbOption 과의 차이 -> self.가 빠지면 지역변수로 선언되어 글로벌 변수가 아니므로 다른 함수 내에서 활용 불가.
+```

@@ -28,7 +28,7 @@ class MyApp(QWidget):
 
         # 필수 설정
         self.setWindowTitle('버튼')
-        self.setGeometry(300, 300, 300, 300)
+        self.setGeometry(300, 300, 500, 500)
         self.show()
 
 if __name__ == '__main__':
