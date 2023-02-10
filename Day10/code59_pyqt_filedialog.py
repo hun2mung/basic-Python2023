@@ -10,6 +10,7 @@ class MyApp(QMainWindow):
         self.initUI()
 
     def initUI(self):
+        
         self.textEdit = QTextEdit(self)
         self.setCentralWidget(self.textEdit)
         self.statusBar()
