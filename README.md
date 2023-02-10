@@ -140,7 +140,7 @@ wikibooks : https://wikibook.co.kr/
     - PyQt 위젯 계속
     - PyQt 다이얼로그
 
-![실행화면](https://raw.githubusercontent.com/hun2mung/studyPython2023/main/Images/dialog.png)
+![실행화면](https://github.com/hun2mung/studyPython2023/blob/main/Images/dialog.png)
 실행화면
 
  ```
