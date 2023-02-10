@@ -1,7 +1,7 @@
 # studyPython2023
 부경대 IoT 파이썬 학습 리포지토리
 
-# 1일차
+## 1일차
 1. 기본구성
     - Git/Github 설치 및 연동
     - Visual Studio code 설치 및 연동
@@ -15,7 +15,7 @@
 print('Hello, Python!!')    # 콘솔출력 함수
 ```
 
-# 2일차
+## 2일차
 1. 파이썬 기본
     - 변수
     - 자료형
@@ -35,7 +35,7 @@ print(f'파이는 {pi}입니다.')        # 파이는 3.141592입니다.
 print(f'파이는 {pi:0.2f}입니다.')   # 파이는 3.14입니다.
 print(f'파이는 {pi:10.3f}입니다.')  # 파이는      3.142입니다.
 ```
-# 3일차
+## 3일차
 1. 파이썬 기본
     - 흐름제어
         - 디버깅 시 F10 : 상세내용 넘어가기 / F11 : 상세내용까지 확인
@@ -45,7 +45,7 @@ print(f'파이는 {pi:10.3f}입니다.')  # 파이는      3.142입니다.
     - 구구단 프로그램
     - 함수
 
-# 4일차
+## 4일차
 1. 파이썬 기본
     - 가상환경
         - global환경과 다른 환경을 만드는 것
@@ -56,7 +56,7 @@ print(f'파이는 {pi:10.3f}입니다.')  # 파이는      3.142입니다.
         - 매직 메서드 : __init__(생성자) 등등
     - 패키지, 모듈
     
-# 5일차
+## 5일차
 1. 파이썬 기본
     - 패키지 계속
         - 인터넷 : 네트워크를 통한 request 와 response
@@ -91,7 +91,7 @@ except Exception as e:
     print(e)
 ```
 
-# 6일차
+## 6일차
 1. 파이썬 기본
     - 콘솔출력 보충
     - 객체지향 다시
@@ -104,14 +104,14 @@ except Exception as e:
 ![실행화면](https://raw.githubusercontent.com/hun2mung/studyPython2023/main/Images/my_address_app.png)
 실행화면
 
-# 7일차
+## 7일차
 1. 파이썬 응용
     - 주피터 노트북 사용법(MD와 파이썬 함께 사용 가능하다는 것이 큰 장점.)
         - 노트북 생성 : 파일메뉴 > 새파일
     - 리스트 연산 추가
     - 라이브러리 사용법
         -folium (지도 라이브러리)
- # 8일차
+ ## 8일차
  1. 파이썬 응용
     - 라이브러리 사용법
         - 웹크롤링용 라이브러리
@@ -123,7 +123,7 @@ except Exception as e:
 
             Folium OpenAPI 연동화면
 
-# 9일차
+## 9일차
 1. 파이썬 응용
     - GUI 개발
         - Tkinter 소개
@@ -134,13 +134,13 @@ wikidocs : https://wikidocs.net/
 wikibooks : https://wikibook.co.kr/
 ```
         
-# 10일차
+## 10일차
 1. 파이썬 응용
 - GUI 개발
     - PyQt 위젯 계속
     - PyQt 다이얼로그
 
-![실행화면]()
+![실행화면](https://raw.githubusercontent.com/hun2mung/studyPython2023/main/Images/dialog.png)
 실행화면
 
  ```
