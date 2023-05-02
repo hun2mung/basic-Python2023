@@ -7,5 +7,5 @@ def vartest(x) :
     a = a + x + 1
     return a
 
-a = vartest()
+a = vartest(10)
 print(a)

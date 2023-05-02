@@ -21,7 +21,7 @@ print('9.Hello\0')  # \0 문장의 끝
 me = '저'
 name = '이동훈'
 age = 26
-print('%s는 %s입니다. %d입니다.'%(me, name, age))
+print('%s는 %s입니다. %d입니다.' %(me, name, age))
 
 print(f'{254.112233:.2f}')  #최신식
 
